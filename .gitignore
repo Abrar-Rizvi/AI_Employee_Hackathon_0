@@ -1,0 +1,20 @@
+# Gmail Credentials
+Silver/Config/gmail_credentials.json
+Silver/Config/gmail_token.json
+
+# Environment Files
+Silver/.env
+Bronze/.env
+
+# WhatsApp Session
+Silver/Config/whatsapp_session/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# System Files
+.DS_Store
+Thumbs.db
+
+project_details.md

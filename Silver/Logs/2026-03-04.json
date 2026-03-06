@@ -1,0 +1,824 @@
+[
+  {
+    "timestamp": "2026-03-04T04:05:24.910232",
+    "watcher": "LinkedInPoster",
+    "action": "linkedin_post_attempt",
+    "dry_run": false,
+    "file_name": "linkedin_post_sample.md",
+    "content_preview": "# Excited to Share My AI Employee Journey! \ud83d\ude80\n\nI'm building an autonomous AI Employee using Claude Code and Obsidian as part of the Personal AI Employee Hackathon. This \"Digital FTE\" works 24/7, managi..."
+  },
+  {
+    "timestamp": "2026-03-04T04:06:21.116072",
+    "watcher": "LinkedInPoster",
+    "action": "linkedin_post_failed",
+    "dry_run": false,
+    "file_name": "linkedin_post_sample.md",
+    "error": "Could not find or click post button - tried all selectors"
+  },
+  {
+    "timestamp": "2026-03-04T04:06:26.138680",
+    "watcher": "LinkedInPoster",
+    "action": "linkedin_post_attempt",
+    "dry_run": false,
+    "file_name": "linkedin_post_sample.md",
+    "content_preview": "# Excited to Share My AI Employee Journey! \ud83d\ude80\n\nI'm building an autonomous AI Employee using Claude Code and Obsidian as part of the Personal AI Employee Hackathon. This \"Digital FTE\" works 24/7, managi..."
+  },
+  {
+    "timestamp": "2026-03-04T04:07:22.623094",
+    "watcher": "LinkedInPoster",
+    "action": "linkedin_post_failed",
+    "dry_run": false,
+    "file_name": "linkedin_post_sample.md",
+    "error": "Could not find or click post button - tried all selectors"
+  },
+  {
+    "timestamp": "2026-03-04T04:07:27.653940",
+    "watcher": "LinkedInPoster",
+    "action": "linkedin_post_attempt",
+    "dry_run": false,
+    "file_name": "linkedin_post_sample.md",
+    "content_preview": "# Excited to Share My AI Employee Journey! \ud83d\ude80\n\nI'm building an autonomous AI Employee using Claude Code and Obsidian as part of the Personal AI Employee Hackathon. This \"Digital FTE\" works 24/7, managi..."
+  },
+  {
+    "timestamp": "2026-03-04T04:23:01.322527",
+    "watcher": "LinkedInPoster",
+    "action": "linkedin_post_attempt",
+    "dry_run": false,
+    "file_name": "linkedin_post_sample.md",
+    "content_preview": "# Excited to Share My AI Employee Journey! \ud83d\ude80\n\nI'm building an autonomous AI Employee using Claude Code and Obsidian as part of the Personal AI Employee Hackathon. This \"Digital FTE\" works 24/7, managi..."
+  },
+  {
+    "timestamp": "2026-03-04T04:23:38.009108",
+    "watcher": "LinkedInPoster",
+    "action": "linkedin_post_failed",
+    "dry_run": false,
+    "file_name": "linkedin_post_sample.md",
+    "error": "LinkedIn error: Post successful. View post"
+  },
+  {
+    "timestamp": "2026-03-04T04:54:42.471136",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cb61fb1439b899",
+    "from": "Indeed <donotreply@jobalert.indeed.com>",
+    "subject": "1 new web development fresher job in Karachi",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260304_045442_1 new web development fresher job in Karachi.md"
+  },
+  {
+    "timestamp": "2026-03-04T05:00:01.459740",
+    "action": "dashboard_update",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Dashboard.md",
+    "status": "updated",
+    "needs_action": 11,
+    "pending": 2,
+    "done": 4,
+    "plans": 2
+  },
+  {
+    "timestamp": "2026-03-04T05:00:01.523264",
+    "action": "intent_analyzed",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260303_142556_1 new web developer job in Pakistan.md",
+    "status": "unknown",
+    "intent": "unknown",
+    "confidence": 0,
+    "priority": "medium",
+    "category": "other",
+    "entities": {},
+    "requires_approval": false,
+    "approval_reason": null
+  },
+  {
+    "timestamp": "2026-03-04T05:00:01.546973",
+    "action": "task_processed",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260303_142556_1 new web developer job in Pakistan.md",
+    "status": "completed",
+    "intent": "unknown",
+    "requires_approval": false
+  },
+  {
+    "timestamp": "2026-03-04T05:00:01.562779",
+    "action": "task_archived",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260303_142556_1 new web developer job in Pakistan.md",
+    "status": "moved_to_done",
+    "destination": "/mnt/d/AI_Employee_Hackathon_0/Silver/Done/email_20260303_142556_1 new web developer job in Pakistan.md"
+  },
+  {
+    "timestamp": "2026-03-04T05:00:01.603216",
+    "action": "intent_analyzed",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260303_142556_IT Instructor _Faculty_ - North Karachi at Aptech .md",
+    "status": "unknown",
+    "intent": "unknown",
+    "confidence": 0,
+    "priority": "medium",
+    "category": "other",
+    "entities": {},
+    "requires_approval": false,
+    "approval_reason": null
+  },
+  {
+    "timestamp": "2026-03-04T05:00:01.614976",
+    "action": "task_processed",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260303_142556_IT Instructor _Faculty_ - North Karachi at Aptech .md",
+    "status": "completed",
+    "intent": "unknown",
+    "requires_approval": false
+  },
+  {
+    "timestamp": "2026-03-04T05:00:01.634632",
+    "action": "task_archived",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260303_142556_IT Instructor _Faculty_ - North Karachi at Aptech .md",
+    "status": "moved_to_done",
+    "destination": "/mnt/d/AI_Employee_Hackathon_0/Silver/Done/email_20260303_142556_IT Instructor _Faculty_ - North Karachi at Aptech .md"
+  },
+  {
+    "timestamp": "2026-03-04T05:00:01.669428",
+    "action": "intent_analyzed",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260303_142556__Newsletter_ New_ Launch agent runs from Linear is.md",
+    "status": "unknown",
+    "intent": "unknown",
+    "confidence": 0,
+    "priority": "medium",
+    "category": "other",
+    "entities": {},
+    "requires_approval": false,
+    "approval_reason": null
+  },
+  {
+    "timestamp": "2026-03-04T05:00:01.678017",
+    "action": "task_processed",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260303_142556__Newsletter_ New_ Launch agent runs from Linear is.md",
+    "status": "completed",
+    "intent": "unknown",
+    "requires_approval": false
+  },
+  {
+    "timestamp": "2026-03-04T05:00:01.697376",
+    "action": "task_archived",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260303_142556__Newsletter_ New_ Launch agent runs from Linear is.md",
+    "status": "moved_to_done",
+    "destination": "/mnt/d/AI_Employee_Hackathon_0/Silver/Done/email_20260303_142556__Newsletter_ New_ Launch agent runs from Linear is.md"
+  },
+  {
+    "timestamp": "2026-03-04T05:00:01.741432",
+    "action": "intent_analyzed",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260303_142557_1 new LLM job in Karachi.md",
+    "status": "unknown",
+    "intent": "unknown",
+    "confidence": 0,
+    "priority": "medium",
+    "category": "other",
+    "entities": {},
+    "requires_approval": false,
+    "approval_reason": null
+  },
+  {
+    "timestamp": "2026-03-04T05:00:01.762331",
+    "action": "task_processed",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260303_142557_1 new LLM job in Karachi.md",
+    "status": "completed",
+    "intent": "unknown",
+    "requires_approval": false
+  },
+  {
+    "timestamp": "2026-03-04T05:00:01.794691",
+    "action": "task_archived",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260303_142557_1 new LLM job in Karachi.md",
+    "status": "moved_to_done",
+    "destination": "/mnt/d/AI_Employee_Hackathon_0/Silver/Done/email_20260303_142557_1 new LLM job in Karachi.md"
+  },
+  {
+    "timestamp": "2026-03-04T05:00:01.838493",
+    "action": "intent_analyzed",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260303_142557_Adobe Commerce_Magento Developer at Magebit and 1 .md",
+    "status": "unknown",
+    "intent": "unknown",
+    "confidence": 0,
+    "priority": "medium",
+    "category": "other",
+    "entities": {},
+    "requires_approval": false,
+    "approval_reason": null
+  },
+  {
+    "timestamp": "2026-03-04T05:00:01.868428",
+    "action": "task_processed",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260303_142557_Adobe Commerce_Magento Developer at Magebit and 1 .md",
+    "status": "completed",
+    "intent": "unknown",
+    "requires_approval": false
+  },
+  {
+    "timestamp": "2026-03-04T05:00:01.876746",
+    "action": "task_archived",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260303_142557_Adobe Commerce_Magento Developer at Magebit and 1 .md",
+    "status": "moved_to_done",
+    "destination": "/mnt/d/AI_Employee_Hackathon_0/Silver/Done/email_20260303_142557_Adobe Commerce_Magento Developer at Magebit and 1 .md"
+  },
+  {
+    "timestamp": "2026-03-04T05:00:01.923809",
+    "action": "intent_analyzed",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260303_142557_Full Stack develeper _ Brandrevam.md",
+    "status": "unknown",
+    "intent": "unknown",
+    "confidence": 0,
+    "priority": "medium",
+    "category": "other",
+    "entities": {},
+    "requires_approval": false,
+    "approval_reason": null
+  },
+  {
+    "timestamp": "2026-03-04T05:00:01.944551",
+    "action": "task_processed",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260303_142557_Full Stack develeper _ Brandrevam.md",
+    "status": "completed",
+    "intent": "unknown",
+    "requires_approval": false
+  },
+  {
+    "timestamp": "2026-03-04T05:00:01.958358",
+    "action": "task_archived",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260303_142557_Full Stack develeper _ Brandrevam.md",
+    "status": "moved_to_done",
+    "destination": "/mnt/d/AI_Employee_Hackathon_0/Silver/Done/email_20260303_142557_Full Stack develeper _ Brandrevam.md"
+  },
+  {
+    "timestamp": "2026-03-04T05:00:01.996968",
+    "action": "intent_analyzed",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260303_142557_Junior Frontend Developer _ MEAN 3 PRIVATE LIMITED.md",
+    "status": "unknown",
+    "intent": "unknown",
+    "confidence": 0,
+    "priority": "medium",
+    "category": "other",
+    "entities": {},
+    "requires_approval": false,
+    "approval_reason": null
+  },
+  {
+    "timestamp": "2026-03-04T05:00:02.005608",
+    "action": "task_processed",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260303_142557_Junior Frontend Developer _ MEAN 3 PRIVATE LIMITED.md",
+    "status": "completed",
+    "intent": "unknown",
+    "requires_approval": false
+  },
+  {
+    "timestamp": "2026-03-04T05:00:02.027739",
+    "action": "task_archived",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260303_142557_Junior Frontend Developer _ MEAN 3 PRIVATE LIMITED.md",
+    "status": "moved_to_done",
+    "destination": "/mnt/d/AI_Employee_Hackathon_0/Silver/Done/email_20260303_142557_Junior Frontend Developer _ MEAN 3 PRIVATE LIMITED.md"
+  },
+  {
+    "timestamp": "2026-03-04T05:00:02.065776",
+    "action": "intent_analyzed",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260303_142557_Postgres_PGBouncer minor version updates_ Timescal.md",
+    "status": "unknown",
+    "intent": "unknown",
+    "confidence": 0,
+    "priority": "medium",
+    "category": "other",
+    "entities": {},
+    "requires_approval": false,
+    "approval_reason": null
+  },
+  {
+    "timestamp": "2026-03-04T05:00:02.087660",
+    "action": "task_processed",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260303_142557_Postgres_PGBouncer minor version updates_ Timescal.md",
+    "status": "completed",
+    "intent": "unknown",
+    "requires_approval": false
+  },
+  {
+    "timestamp": "2026-03-04T05:00:02.106899",
+    "action": "task_archived",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260303_142557_Postgres_PGBouncer minor version updates_ Timescal.md",
+    "status": "moved_to_done",
+    "destination": "/mnt/d/AI_Employee_Hackathon_0/Silver/Done/email_20260303_142557_Postgres_PGBouncer minor version updates_ Timescal.md"
+  },
+  {
+    "timestamp": "2026-03-04T05:00:02.155099",
+    "action": "intent_analyzed",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260303_142557_Python developer for QA automation at SysTellex In.md",
+    "status": "unknown",
+    "intent": "unknown",
+    "confidence": 0,
+    "priority": "medium",
+    "category": "other",
+    "entities": {},
+    "requires_approval": false,
+    "approval_reason": null
+  },
+  {
+    "timestamp": "2026-03-04T05:00:02.163876",
+    "action": "task_processed",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260303_142557_Python developer for QA automation at SysTellex In.md",
+    "status": "completed",
+    "intent": "unknown",
+    "requires_approval": false
+  },
+  {
+    "timestamp": "2026-03-04T05:00:02.183084",
+    "action": "task_archived",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260303_142557_Python developer for QA automation at SysTellex In.md",
+    "status": "moved_to_done",
+    "destination": "/mnt/d/AI_Employee_Hackathon_0/Silver/Done/email_20260303_142557_Python developer for QA automation at SysTellex In.md"
+  },
+  {
+    "timestamp": "2026-03-04T05:00:02.225781",
+    "action": "intent_analyzed",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260303_142557_Web Full stack developer at Linvex Solutions and 1.md",
+    "status": "unknown",
+    "intent": "unknown",
+    "confidence": 0,
+    "priority": "medium",
+    "category": "other",
+    "entities": {},
+    "requires_approval": false,
+    "approval_reason": null
+  },
+  {
+    "timestamp": "2026-03-04T05:00:02.243184",
+    "action": "task_processed",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260303_142557_Web Full stack developer at Linvex Solutions and 1.md",
+    "status": "completed",
+    "intent": "unknown",
+    "requires_approval": false
+  },
+  {
+    "timestamp": "2026-03-04T05:00:02.262947",
+    "action": "task_archived",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260303_142557_Web Full stack developer at Linvex Solutions and 1.md",
+    "status": "moved_to_done",
+    "destination": "/mnt/d/AI_Employee_Hackathon_0/Silver/Done/email_20260303_142557_Web Full stack developer at Linvex Solutions and 1.md"
+  },
+  {
+    "timestamp": "2026-03-04T05:00:02.284944",
+    "action": "intent_analyzed",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260304_045442_1 new web development fresher job in Karachi.md",
+    "status": "unknown",
+    "intent": "unknown",
+    "confidence": 0,
+    "priority": "medium",
+    "category": "other",
+    "entities": {},
+    "requires_approval": false,
+    "approval_reason": null
+  },
+  {
+    "timestamp": "2026-03-04T05:00:02.300718",
+    "action": "task_processed",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260304_045442_1 new web development fresher job in Karachi.md",
+    "status": "completed",
+    "intent": "unknown",
+    "requires_approval": false
+  },
+  {
+    "timestamp": "2026-03-04T05:00:02.334492",
+    "action": "task_archived",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260304_045442_1 new web development fresher job in Karachi.md",
+    "status": "moved_to_done",
+    "destination": "/mnt/d/AI_Employee_Hackathon_0/Silver/Done/email_20260304_045442_1 new web development fresher job in Karachi.md"
+  },
+  {
+    "timestamp": "2026-03-04T05:00:02.357923",
+    "action": "dashboard_update",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Dashboard.md",
+    "status": "updated",
+    "needs_action": 0,
+    "pending": 2,
+    "done": 15,
+    "plans": 4
+  },
+  {
+    "timestamp": "2026-03-04T05:02:37.552930",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cb62724697693c",
+    "from": "Indeed <donotreply@jobalert.indeed.com>",
+    "subject": "Adobe Commerce/Magento Developer at Magebit and 1 more web developer job in Pakistan for you!",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260304_050237_Adobe Commerce_Magento Developer at Magebit and 1 .md"
+  },
+  {
+    "timestamp": "2026-03-04T05:02:47.366213",
+    "action": "intent_analyzed",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260304_050237_Adobe Commerce_Magento Developer at Magebit and 1 .md",
+    "status": "unknown",
+    "intent": "unknown",
+    "confidence": 0,
+    "priority": "medium",
+    "category": "other",
+    "entities": {},
+    "requires_approval": false,
+    "approval_reason": null
+  },
+  {
+    "timestamp": "2026-03-04T05:02:47.387352",
+    "action": "task_processed",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260304_050237_Adobe Commerce_Magento Developer at Magebit and 1 .md",
+    "status": "completed",
+    "intent": "unknown",
+    "requires_approval": false
+  },
+  {
+    "timestamp": "2026-03-04T05:02:47.400842",
+    "action": "task_archived",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260304_050237_Adobe Commerce_Magento Developer at Magebit and 1 .md",
+    "status": "moved_to_done",
+    "destination": "/mnt/d/AI_Employee_Hackathon_0/Silver/Done/email_20260304_050237_Adobe Commerce_Magento Developer at Magebit and 1 .md"
+  },
+  {
+    "timestamp": "2026-03-04T05:02:47.436100",
+    "action": "dashboard_update",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Dashboard.md",
+    "status": "updated",
+    "needs_action": 0,
+    "pending": 2,
+    "done": 16,
+    "plans": 5
+  },
+  {
+    "timestamp": "2026-03-04T05:03:42.475692",
+    "action": "dashboard_update",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Dashboard.md",
+    "status": "updated",
+    "needs_action": 0,
+    "pending": 2,
+    "done": 16,
+    "plans": 5
+  },
+  {
+    "timestamp": "2026-03-04T00:50:52.819Z",
+    "server": "gmail_send_mcp_test",
+    "action": "test_email_dry_run",
+    "dry_run": true,
+    "to": "test@example.com",
+    "subject": "Test Email - DRY RUN",
+    "body": "This is a test email in DRY RUN mode.\n\nNo email will be sent.",
+    "cc": "cc@example.com"
+  },
+  {
+    "timestamp": "2026-03-04T00:59:52.137Z",
+    "server": "gmail_send_mcp_test",
+    "action": "test_email_dry_run",
+    "dry_run": true,
+    "to": "test@example.com",
+    "subject": "Test Email - DRY RUN",
+    "body": "This is a test email in DRY RUN mode.\n\nNo email will be sent.",
+    "cc": "cc@example.com"
+  },
+  {
+    "timestamp": "2026-03-04T06:00:02.140314",
+    "action": "dashboard_update",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Dashboard.md",
+    "status": "updated",
+    "needs_action": 0,
+    "pending": 2,
+    "done": 16,
+    "plans": 5
+  },
+  {
+    "timestamp": "2026-03-04T06:03:45.016176",
+    "action": "dashboard_update",
+    "file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Dashboard.md",
+    "status": "updated",
+    "needs_action": 0,
+    "pending": 2,
+    "done": 16,
+    "plans": 5
+  },
+  {
+    "timestamp": "2026-03-04T01:26:58.378Z",
+    "server": "gmail_send_mcp",
+    "action": "email_sent",
+    "dry_run": false,
+    "message_id": "19cb6748acdea146",
+    "to": "abrarrizvi1999@gmail.com",
+    "subject": "MCP Test - Silver Tier Complete"
+  },
+  {
+    "timestamp": "2026-03-04T06:27:05.481649",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cb6748acdea146",
+    "from": "abrarrizvi1999@gmail.com",
+    "subject": "MCP Test - Silver Tier Complete",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260304_062705_MCP Test - Silver Tier Complete.md"
+  },
+  {
+    "timestamp": "2026-03-04T06:27:07.463304",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cb6748acdea146",
+    "from": "abrarrizvi1999@gmail.com",
+    "subject": "MCP Test - Silver Tier Complete",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260304_062707_MCP Test - Silver Tier Complete.md"
+  },
+  {
+    "timestamp": "2026-03-04T06:27:07.563978",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cb6748acdea146",
+    "from": "abrarrizvi1999@gmail.com",
+    "subject": "MCP Test - Silver Tier Complete",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260304_062707_MCP Test - Silver Tier Complete.md"
+  },
+  {
+    "timestamp": "2026-03-04T06:27:07.642824",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cb6748acdea146",
+    "from": "abrarrizvi1999@gmail.com",
+    "subject": "MCP Test - Silver Tier Complete",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260304_062707_MCP Test - Silver Tier Complete.md"
+  },
+  {
+    "timestamp": "2026-03-04T06:27:08.717747",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cb6748acdea146",
+    "from": "abrarrizvi1999@gmail.com",
+    "subject": "MCP Test - Silver Tier Complete",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260304_062708_MCP Test - Silver Tier Complete.md"
+  },
+  {
+    "timestamp": "2026-03-04T06:27:09.337964",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cb6748acdea146",
+    "from": "abrarrizvi1999@gmail.com",
+    "subject": "MCP Test - Silver Tier Complete",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260304_062709_MCP Test - Silver Tier Complete.md"
+  },
+  {
+    "timestamp": "2026-03-04T06:27:09.495867",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cb6748acdea146",
+    "from": "abrarrizvi1999@gmail.com",
+    "subject": "MCP Test - Silver Tier Complete",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260304_062709_MCP Test - Silver Tier Complete.md"
+  },
+  {
+    "timestamp": "2026-03-04T06:27:11.630484",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cb6748acdea146",
+    "from": "abrarrizvi1999@gmail.com",
+    "subject": "MCP Test - Silver Tier Complete",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260304_062711_MCP Test - Silver Tier Complete.md"
+  },
+  {
+    "timestamp": "2026-03-04T06:27:12.281017",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cb6748acdea146",
+    "from": "abrarrizvi1999@gmail.com",
+    "subject": "MCP Test - Silver Tier Complete",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260304_062712_MCP Test - Silver Tier Complete.md"
+  },
+  {
+    "timestamp": "2026-03-04T06:27:13.076548",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cb6748acdea146",
+    "from": "abrarrizvi1999@gmail.com",
+    "subject": "MCP Test - Silver Tier Complete",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260304_062713_MCP Test - Silver Tier Complete.md"
+  },
+  {
+    "timestamp": "2026-03-04T06:27:13.452916",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cb6748acdea146",
+    "from": "abrarrizvi1999@gmail.com",
+    "subject": "MCP Test - Silver Tier Complete",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260304_062713_MCP Test - Silver Tier Complete.md"
+  },
+  {
+    "timestamp": "2026-03-04T06:27:13.240049",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cb6748acdea146",
+    "from": "abrarrizvi1999@gmail.com",
+    "subject": "MCP Test - Silver Tier Complete",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260304_062713_MCP Test - Silver Tier Complete.md"
+  },
+  {
+    "timestamp": "2026-03-04T06:27:16.128715",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cb6748acdea146",
+    "from": "abrarrizvi1999@gmail.com",
+    "subject": "MCP Test - Silver Tier Complete",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260304_062716_MCP Test - Silver Tier Complete.md"
+  },
+  {
+    "timestamp": "2026-03-04T06:27:17.594353",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cb6748acdea146",
+    "from": "abrarrizvi1999@gmail.com",
+    "subject": "MCP Test - Silver Tier Complete",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260304_062717_MCP Test - Silver Tier Complete.md"
+  },
+  {
+    "timestamp": "2026-03-04T06:27:17.955336",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cb6748acdea146",
+    "from": "abrarrizvi1999@gmail.com",
+    "subject": "MCP Test - Silver Tier Complete",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260304_062717_MCP Test - Silver Tier Complete.md"
+  },
+  {
+    "timestamp": "2026-03-04T06:27:18.239084",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cb6748acdea146",
+    "from": "abrarrizvi1999@gmail.com",
+    "subject": "MCP Test - Silver Tier Complete",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260304_062718_MCP Test - Silver Tier Complete.md"
+  },
+  {
+    "timestamp": "2026-03-04T06:27:23.449770",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cb6748acdea146",
+    "from": "abrarrizvi1999@gmail.com",
+    "subject": "MCP Test - Silver Tier Complete",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260304_062723_MCP Test - Silver Tier Complete.md"
+  },
+  {
+    "timestamp": "2026-03-04T06:27:26.549738",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cb6748acdea146",
+    "from": "abrarrizvi1999@gmail.com",
+    "subject": "MCP Test - Silver Tier Complete",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260304_062726_MCP Test - Silver Tier Complete.md"
+  },
+  {
+    "timestamp": "2026-03-04T06:27:26.745424",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cb6748acdea146",
+    "from": "abrarrizvi1999@gmail.com",
+    "subject": "MCP Test - Silver Tier Complete",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260304_062726_MCP Test - Silver Tier Complete.md"
+  },
+  {
+    "timestamp": "2026-03-04T06:27:28.792267",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cb6748acdea146",
+    "from": "abrarrizvi1999@gmail.com",
+    "subject": "MCP Test - Silver Tier Complete",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260304_062728_MCP Test - Silver Tier Complete.md"
+  },
+  {
+    "timestamp": "2026-03-04T06:27:29.567893",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cb6748acdea146",
+    "from": "abrarrizvi1999@gmail.com",
+    "subject": "MCP Test - Silver Tier Complete",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260304_062729_MCP Test - Silver Tier Complete.md"
+  },
+  {
+    "timestamp": "2026-03-04T06:27:29.610538",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cb6748acdea146",
+    "from": "abrarrizvi1999@gmail.com",
+    "subject": "MCP Test - Silver Tier Complete",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260304_062729_MCP Test - Silver Tier Complete.md"
+  },
+  {
+    "timestamp": "2026-03-04T06:27:29.728559",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cb6748acdea146",
+    "from": "abrarrizvi1999@gmail.com",
+    "subject": "MCP Test - Silver Tier Complete",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260304_062729_MCP Test - Silver Tier Complete.md"
+  },
+  {
+    "timestamp": "2026-03-04T06:27:30.669441",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cb6748acdea146",
+    "from": "abrarrizvi1999@gmail.com",
+    "subject": "MCP Test - Silver Tier Complete",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260304_062730_MCP Test - Silver Tier Complete.md"
+  },
+  {
+    "timestamp": "2026-03-04T06:27:32.030503",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cb6748acdea146",
+    "from": "abrarrizvi1999@gmail.com",
+    "subject": "MCP Test - Silver Tier Complete",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260304_062731_MCP Test - Silver Tier Complete.md"
+  },
+  {
+    "timestamp": "2026-03-04T06:27:32.468391",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cb6748acdea146",
+    "from": "abrarrizvi1999@gmail.com",
+    "subject": "MCP Test - Silver Tier Complete",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260304_062732_MCP Test - Silver Tier Complete.md"
+  },
+  {
+    "timestamp": "2026-03-04T06:27:32.941649",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cb6748acdea146",
+    "from": "abrarrizvi1999@gmail.com",
+    "subject": "MCP Test - Silver Tier Complete",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260304_062732_MCP Test - Silver Tier Complete.md"
+  },
+  {
+    "timestamp": "2026-03-04T06:27:32.969555",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cb6748acdea146",
+    "from": "abrarrizvi1999@gmail.com",
+    "subject": "MCP Test - Silver Tier Complete",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260304_062732_MCP Test - Silver Tier Complete.md"
+  },
+  {
+    "timestamp": "2026-03-04T06:27:33.005637",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cb6748acdea146",
+    "from": "abrarrizvi1999@gmail.com",
+    "subject": "MCP Test - Silver Tier Complete",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260304_062732_MCP Test - Silver Tier Complete.md"
+  }
+]

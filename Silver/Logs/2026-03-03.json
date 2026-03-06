@@ -1,0 +1,112 @@
+[
+  {
+    "timestamp": "2026-03-03T14:25:56.908947",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cb162d06ceaa45",
+    "from": "Indeed <donotreply@jobalert.indeed.com>",
+    "subject": "1 new web developer job in Pakistan",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260303_142556_1 new web developer job in Pakistan.md"
+  },
+  {
+    "timestamp": "2026-03-03T14:25:56.955267",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cb105ae87fee95",
+    "from": "Indeed <donotreply@jobalert.indeed.com>",
+    "subject": "IT Instructor (Faculty) - North Karachi at Aptech Learning North Karachi and 1 more web development fresher job in Karachi for you!",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260303_142556_IT Instructor _Faculty_ - North Karachi at Aptech .md"
+  },
+  {
+    "timestamp": "2026-03-03T14:25:57.008885",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cb0afae60711cc",
+    "from": "Netlify Team <noreply@netlify.com>",
+    "subject": "[Newsletter] New: Launch agent runs from Linear issues",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260303_142556__Newsletter_ New_ Launch agent runs from Linear is.md"
+  },
+  {
+    "timestamp": "2026-03-03T14:25:57.076118",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cac4f2095e0f66",
+    "from": "Indeed <donotreply@match.indeed.com>",
+    "subject": "Junior Frontend Developer @ MEAN 3 PRIVATE LIMITED",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260303_142557_Junior Frontend Developer _ MEAN 3 PRIVATE LIMITED.md"
+  },
+  {
+    "timestamp": "2026-03-03T14:25:57.120930",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cab846871ee240",
+    "from": "Indeed <donotreply@jobalert.indeed.com>",
+    "subject": "Python developer for QA automation at SysTellex Inc. and 4 more web developer jobs in Pakistan for you!",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260303_142557_Python developer for QA automation at SysTellex In.md"
+  },
+  {
+    "timestamp": "2026-03-03T14:25:57.155890",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19ca69ea1aece900",
+    "from": "Indeed <donotreply@jobalert.indeed.com>",
+    "subject": "Adobe Commerce/Magento Developer at Magebit and 1 more web developer job in Pakistan for you!",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260303_142557_Adobe Commerce_Magento Developer at Magebit and 1 .md"
+  },
+  {
+    "timestamp": "2026-03-03T14:25:57.189646",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19ca5f58e150aba4",
+    "from": "Indeed <donotreply@jobalert.indeed.com>",
+    "subject": "1 new LLM job in Karachi",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260303_142557_1 new LLM job in Karachi.md"
+  },
+  {
+    "timestamp": "2026-03-03T14:25:57.223398",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19ca1483f5d6f9d5",
+    "from": "Indeed <donotreply@jobalert.indeed.com>",
+    "subject": "Web Full stack developer at Linvex Solutions and 1 more web developer job in Pakistan for you!",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260303_142557_Web Full stack developer at Linvex Solutions and 1.md"
+  },
+  {
+    "timestamp": "2026-03-03T14:25:57.353996",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19ca0e4ee0e1644a",
+    "from": "Neon Changelog <changelog@neon.tech>",
+    "subject": "Postgres/PGBouncer minor version updates, Timescale on 18, branches + worktrees",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260303_142557_Postgres_PGBouncer minor version updates_ Timescal.md"
+  },
+  {
+    "timestamp": "2026-03-03T14:25:57.417297",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19c9cdf881b83fda",
+    "from": "Indeed <donotreply@match.indeed.com>",
+    "subject": "Full Stack develeper @ Brandrevam",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260303_142557_Full Stack develeper _ Brandrevam.md"
+  }
+]

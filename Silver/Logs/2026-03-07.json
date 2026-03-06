@@ -1,0 +1,259 @@
+[
+  {
+    "timestamp": "2026-03-07T03:55:40.760301",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cc52f21839dd56",
+    "from": "Google Cloud <CloudPlatform-noreply@google.com>",
+    "subject": "[Product Update] Automatic enablement of new OpenTelemetry ingestion API",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260307_035540__Product Update_ Automatic enablement of new OpenT.md"
+  },
+  {
+    "timestamp": "2026-03-07T03:55:40.849143",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cc4f4e5bb6cb45",
+    "from": "Neon Changelog <changelog@neon.tech>",
+    "subject": "Two-Factor Auth available on all Neon accounts, new Data API Advisor flags security and performance issues",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260307_035540_Two-Factor Auth available on all Neon accounts_ ne.md"
+  },
+  {
+    "timestamp": "2026-03-07T03:55:40.910822",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cc49315e83d122",
+    "from": "Indeed <donotreply@jobalert.indeed.com>",
+    "subject": "1 new LLM job in Karachi",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260307_035540_1 new LLM job in Karachi.md"
+  },
+  {
+    "timestamp": "2026-03-07T03:55:40.980756",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cc358f29077aea",
+    "from": "Render <no-reply@render.com>",
+    "subject": "[Action Required] Invalid payment info on Render",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260307_035540__Action Required_ Invalid payment info on Render.md"
+  },
+  {
+    "timestamp": "2026-03-07T03:55:41.092122",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cc065dd91fe12d",
+    "from": "Indeed <donotreply@jobalert.indeed.com>",
+    "subject": "IT Faculty Member - Hyderi Branch at Aptech Learning North Karachi and 1 more web development fresher job in Karachi for you!",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260307_035541_IT Faculty Member - Hyderi Branch at Aptech Learni.md"
+  },
+  {
+    "timestamp": "2026-03-07T03:55:41.184018",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cc042a37a30b3e",
+    "from": "Indeed <donotreply@jobalert.indeed.com>",
+    "subject": "Web developer at Corpus Haus and 3 more web developer jobs in Pakistan for you!",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260307_035541_Web developer at Corpus Haus and 3 more web develo.md"
+  },
+  {
+    "timestamp": "2026-03-07T03:55:41.248705",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cbf6aac844daab",
+    "from": "\"ROZEE.PK\" <no-reply@rozee.pk>",
+    "subject": "Increase your chances of getting hired by completing your profile",
+    "priority": "high",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260307_035541_Increase your chances of getting hired by completi.md"
+  },
+  {
+    "timestamp": "2026-03-07T03:55:41.376102",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cbe82eb26d41f5",
+    "from": "Bitly Team <hello@e.bitly.com>",
+    "subject": "[Top 5] The biggest typos in history",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260307_035541__Top 5_ The biggest typos in history.md"
+  },
+  {
+    "timestamp": "2026-03-07T03:55:41.511322",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cbe7696bcf11d7",
+    "from": "Render <no-reply@render.com>",
+    "subject": "[Action Required] Invalid payment info on Render",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260307_035541__Action Required_ Invalid payment info on Render.md"
+  },
+  {
+    "timestamp": "2026-03-07T03:55:41.622654",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cbe09bc752f588",
+    "from": "Cisco Networking Academy <noreply@netacad.com>",
+    "subject": "Join #NetAcadCup_ Introduction to Modern AI at SAYLANI WELFARE INTERNATIONAL TRUST!",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260307_035541_Join _NetAcadCup_ Introduction to Modern AI at SAY.md"
+  },
+  {
+    "timestamp": "2026-03-07T03:55:41.918800",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cc52f21839dd56",
+    "from": "Google Cloud <CloudPlatform-noreply@google.com>",
+    "subject": "[Product Update] Automatic enablement of new OpenTelemetry ingestion API",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260307_035541__Product Update_ Automatic enablement of new OpenT.md"
+  },
+  {
+    "timestamp": "2026-03-07T03:55:42.067412",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cc4f4e5bb6cb45",
+    "from": "Neon Changelog <changelog@neon.tech>",
+    "subject": "Two-Factor Auth available on all Neon accounts, new Data API Advisor flags security and performance issues",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260307_035541_Two-Factor Auth available on all Neon accounts_ ne.md"
+  },
+  {
+    "timestamp": "2026-03-07T03:55:42.179950",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cc4f4e5bb6cb45",
+    "from": "Neon Changelog <changelog@neon.tech>",
+    "subject": "Two-Factor Auth available on all Neon accounts, new Data API Advisor flags security and performance issues",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260307_035541_Two-Factor Auth available on all Neon accounts_ ne.md"
+  },
+  {
+    "timestamp": "2026-03-07T03:55:43.000135",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cc49315e83d122",
+    "from": "Indeed <donotreply@jobalert.indeed.com>",
+    "subject": "1 new LLM job in Karachi",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260307_035542_1 new LLM job in Karachi.md"
+  },
+  {
+    "timestamp": "2026-03-07T03:55:43.096199",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cc49315e83d122",
+    "from": "Indeed <donotreply@jobalert.indeed.com>",
+    "subject": "1 new LLM job in Karachi",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260307_035542_1 new LLM job in Karachi.md"
+  },
+  {
+    "timestamp": "2026-03-07T03:55:43.346041",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cc52f21839dd56",
+    "from": "Google Cloud <CloudPlatform-noreply@google.com>",
+    "subject": "[Product Update] Automatic enablement of new OpenTelemetry ingestion API",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260307_035543__Product Update_ Automatic enablement of new OpenT.md"
+  },
+  {
+    "timestamp": "2026-03-07T03:55:43.384071",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cc358f29077aea",
+    "from": "Render <no-reply@render.com>",
+    "subject": "[Action Required] Invalid payment info on Render",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260307_035543__Action Required_ Invalid payment info on Render.md"
+  },
+  {
+    "timestamp": "2026-03-07T03:55:43.473912",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cc065dd91fe12d",
+    "from": "Indeed <donotreply@jobalert.indeed.com>",
+    "subject": "IT Faculty Member - Hyderi Branch at Aptech Learning North Karachi and 1 more web development fresher job in Karachi for you!",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260307_035543_IT Faculty Member - Hyderi Branch at Aptech Learni.md"
+  },
+  {
+    "timestamp": "2026-03-07T03:55:43.581126",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cc042a37a30b3e",
+    "from": "Indeed <donotreply@jobalert.indeed.com>",
+    "subject": "Web developer at Corpus Haus and 3 more web developer jobs in Pakistan for you!",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260307_035543_Web developer at Corpus Haus and 3 more web develo.md"
+  },
+  {
+    "timestamp": "2026-03-07T03:55:43.609104",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cc042a37a30b3e",
+    "from": "Indeed <donotreply@jobalert.indeed.com>",
+    "subject": "Web developer at Corpus Haus and 3 more web developer jobs in Pakistan for you!",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260307_035543_Web developer at Corpus Haus and 3 more web develo.md"
+  },
+  {
+    "timestamp": "2026-03-07T03:55:43.744184",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cc4f4e5bb6cb45",
+    "from": "Neon Changelog <changelog@neon.tech>",
+    "subject": "Two-Factor Auth available on all Neon accounts, new Data API Advisor flags security and performance issues",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260307_035543_Two-Factor Auth available on all Neon accounts_ ne.md"
+  },
+  {
+    "timestamp": "2026-03-07T03:55:43.814576",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cbf6aac844daab",
+    "from": "\"ROZEE.PK\" <no-reply@rozee.pk>",
+    "subject": "Increase your chances of getting hired by completing your profile",
+    "priority": "high",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260307_035543_Increase your chances of getting hired by completi.md"
+  },
+  {
+    "timestamp": "2026-03-07T03:55:43.948514",
+    "watcher": "GmailWatcher",
+    "action": "email_detected",
+    "dry_run": false,
+    "email_id": "19cbe82eb26d41f5",
+    "from": "Bitly Team <hello@e.bitly.com>",
+    "subject": "[Top 5] The biggest typos in history",
+    "priority": "medium",
+    "action_file": "/mnt/d/AI_Employee_Hackathon_0/Silver/Needs_Action/email_20260307_035543__Top 5_ The biggest typos in history.md"
+  }
+]nces of getting hired by completi.md"
+  }
+]7_035543_IT Faculty Member - Hyderi Branch at Aptech Learni.md"
+  }
+]
