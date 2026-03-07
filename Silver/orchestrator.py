@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Orchestrator for Bronze Tier AI Employee
+Orchestrator for Silver Tier AI Employee
 Scans for tasks, processes them using skills, and updates the dashboard.
 """
 
@@ -15,16 +15,19 @@ from pathlib import Path
 from typing import Dict, List, Any
 
 # Configuration based on working directory
-BRONZE_DIR = Path(__file__).parent
-NEEDS_ACTION_FOLDER = BRONZE_DIR / "Needs_Action"
-DONE_FOLDER = BRONZE_DIR / "Done"
-LOGS_FOLDER = BRONZE_DIR / "Logs"
-PLANS_FOLDER = BRONZE_DIR / "Plans"
-PENDING_APPROVAL_FOLDER = BRONZE_DIR / "Pending_Approval"
-CONFIG_FILE = BRONZE_DIR / "Config" / "system_config.json"
-DASHBOARD_FILE = BRONZE_DIR / "Dashboard.md"
+# VAULT_PATH points to Silver directory
+VAULT_PATH = Path(__file__).parent.resolve()
+NEEDS_ACTION_FOLDER = VAULT_PATH / "Needs_Action"
+DONE_FOLDER = VAULT_PATH / "Done"
+LOGS_FOLDER = VAULT_PATH / "Logs"
+PLANS_FOLDER = VAULT_PATH / "Plans"
+PENDING_APPROVAL_FOLDER = VAULT_PATH / "Pending_Approval"
+APPROVED_FOLDER = VAULT_PATH / "Approved"
+REJECTED_FOLDER = VAULT_PATH / "Rejected"
+CONFIG_FILE = VAULT_PATH / "Config" / "system_config.json"
+DASHBOARD_FILE = VAULT_PATH / "Dashboard.md"
 ERROR_LOG_FILE = LOGS_FOLDER / "errors.log"
-COMPANY_HANDBOOK = BRONZE_DIR / "Company_Handbook.md"
+COMPANY_HANDBOOK = VAULT_PATH / "Company_Handbook.md"
 
 # Default configuration
 DEFAULT_CONFIG = {
@@ -536,8 +539,8 @@ def ensure_folders_exist():
         DONE_FOLDER,
         LOGS_FOLDER,
         PLANS_FOLDER,
-        BRONZE_DIR / "Approved",
-        BRONZE_DIR / "Rejected",
+        APPROVED_FOLDER,
+        REJECTED_FOLDER,
         PENDING_APPROVAL_FOLDER
     ]
 
@@ -593,7 +596,7 @@ last_updated: {datetime.now().strftime("%Y-%m-%d")}
 status: active
 ---
 
-# AI Employee Dashboard (Bronze Tier)
+# AI Employee Dashboard (Silver Tier)
 
 ## System Status
 - Claude Code: Running
@@ -808,7 +811,7 @@ def main():
     global running
 
     print("=" * 60)
-    print("Bronze Tier - Orchestrator Starting")
+    print("Silver Tier - Orchestrator Starting")
     print("=" * 60)
 
     # Load configuration
