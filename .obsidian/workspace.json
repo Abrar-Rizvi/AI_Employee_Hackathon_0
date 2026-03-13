@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "6d2490414d808f32",
+    "type": "split",
+    "children": [
+      {
+        "id": "73ebae1a8f4eb2f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba4c9d5214ba0303",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gold/Done/FB_test_post4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FB_test_post4"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f476150975d91c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "658162408664759b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb0ba0f1520c0c2c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ca7eb08e6ba511a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c8b84957582d6742",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e94098ef97ac5a1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "72f60072bd261542",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "782747c14f1aeb93",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Gold/Done/FB_test_post3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for FB_test_post3"
+            }
+          },
+          {
+            "id": "075dc5ffe90e97fb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Gold/Done/FB_test_post3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from FB_test_post3"
+            }
+          },
+          {
+            "id": "7b841ec50b0ddf9b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fc8b01c0d6b02867",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4e790df3187ea29e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Gold/Done/FB_test_post3.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of FB_test_post3"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "bb0ba0f1520c0c2c",
+  "lastOpenFiles": [
+    "Gold/README.md",
+    "Gold/Config/instagram_session/Default/parcel_tracking_db/LOG",
+    "Gold/Config/instagram_session/Default/parcel_tracking_db/LOCK",
+    "Gold/Config/instagram_session/Default/parcel_tracking_db",
+    "Gold/Config/instagram_session/Default/discounts_db/LOG",
+    "Gold/Config/instagram_session/Default/discounts_db/LOCK",
+    "Gold/Config/instagram_session/Default/discounts_db",
+    "Silver/Config/linkedin_session/BrowserMetrics/BrowserMetrics-69B465BA-A68.pma",
+    "Gold/Config/InstagramPoster_state.json",
+    "Gold/Done/IG_test_post12.md",
+    "Gold/Config/facebook_session/Default/Cache/Cache_Data/40e7712eb087fd8e_0",
+    "Gold/Config/facebook_session/Default/Cache/Cache_Data/todelete_83b15330449d09d4_0_1",
+    "Gold/Approved/IG_test_post12.md",
+    "Gold/Done/IG_test_post11.md",
+    "Gold/Config/no_file_input.png",
+    "Gold/Config/dropdown_open.png",
+    "Gold/Approved/IG_test_post11.md",
+    "Gold/Done/IG_test_post10.md",
+    "Gold/Approved/IG_test_post10.md",
+    "Gold/Done/FB_switchtest1.md",
+    "Gold/Done/FB_switchtest.md",
+    "Gold/Done/IG_test_post9.md",
+    "Gold/Config/after_addphoto_click.png",
+    "Gold/Approved/IG_test_post9.md",
+    "Gold/Done/IG_test_post8.md",
+    "Gold/Config/upload_debug.png",
+    "Gold/Approved/IG_test_post8.md",
+    "Gold/Done/IG_test_post7.md",
+    "Gold/Approved/IG_test_post7.md",
+    "Gold/Done/IG_test_post6.md",
+    "Gold/Config/add_photo_debug.png",
+    "Gold/Approved/IG_test_post6.md",
+    "Gold/Done/IG_test_post5.md",
+    "Gold/Approved/IG_test_post5.md",
+    "Gold/Done/IG_test_post4.md",
+    "Gold/Done/IG_test_post3.md",
+    "Gold/Done/IG_test_post2.md",
+    "Gold/Config/after_image_upload.png",
+    "Gold/Approved/IG_test_post4.md",
+    "Gold/Approved/IG_test_post3.md",
+    "Gold/Config/image_upload_error.png",
+    "Gold/Approved/IG_test_post2.md",
+    "Gold/Config/ig_default_image.png",
+    "Gold/Done/IG_test_post1.md",
+    "Gold/Config/after_publish.png",
+    "Gold/Config/text_input_not_found.png"
+  ]
+}

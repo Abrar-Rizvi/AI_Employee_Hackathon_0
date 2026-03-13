@@ -1,0 +1,8 @@
+2026/03/13-23:55:04.292 740 Reusing MANIFEST /mnt/d/AI_Employee_Hackathon_0/Gold/Config/facebook_session/Default/Local Storage/leveldb/MANIFEST-000001
+2026/03/13-23:55:04.350 740 Recovering log #32
+2026/03/13-23:55:04.360 740 Level-0 table #35: started
+2026/03/13-23:55:04.398 740 Level-0 table #35: 18810 bytes OK
+2026/03/13-23:55:04.401 740 Recovering log #35
+2026/03/13-23:55:04.417 740 Reusing old log /mnt/d/AI_Employee_Hackathon_0/Gold/Config/facebook_session/Default/Local Storage/leveldb/000035.log 
+2026/03/13-23:55:04.530 740 Delete type=0 #32
+2026/03/13-23:55:04.533 740 Delete type=2 #36

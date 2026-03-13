@@ -1,6 +1,0 @@
-2026/03/07-06:00:05.188 cb31 Reusing MANIFEST /mnt/d/AI_Employee_Hackathon_0/Silver/Config/linkedin_session/Default/Local Storage/leveldb/MANIFEST-000001
-2026/03/07-06:00:05.247 cb31 Recovering log #3
-2026/03/07-06:00:05.252 cb31 Reusing old log /mnt/d/AI_Employee_Hackathon_0/Silver/Config/linkedin_session/Default/Local Storage/leveldb/000003.log 
-2026/03/07-06:01:07.102 cb2d Level-0 table #5: started
-2026/03/07-06:01:07.146 cb2d Level-0 table #5: 39274 bytes OK
-2026/03/07-06:01:07.176 cb2d Delete type=0 #3
